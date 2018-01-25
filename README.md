@@ -1,5 +1,8 @@
 个人收集的github有趣的项目。
 
+## hexojs/hexo
+快速简单的博客网站生成工具，支持用markdown编写的文档。比如vue的文档：https://vuejs.org/。
+
 ## gavinkwoe/weapp-ide-crack
 破解的微信IDE，可在mac、windows模拟运行微信和微信应用。
 
